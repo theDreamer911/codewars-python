@@ -1,0 +1,1 @@
+string_to_number = lambda x: int(x)
